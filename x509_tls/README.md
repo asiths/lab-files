@@ -6,15 +6,6 @@ X-Context: Practical cryptography course - X.509/TLS lab
 
 # Practical cryptography course - X.509/TLS lab
 
-## Scenario description
-Examplify Inc. has developed a web service that distributes inspiring and motivating quotes to
-employees. Someone in HR claims that this will greatly boost their moral and productivity.
-  
-The wisdom provided by the service is considered a highly valuable company secret and the
-potential consequences if leaked dire - yet the developers didn't think to implement authentication
-nor network encryption. You've been tasked to harden the web service and ensure future prosperity.
-
-
 ## Learning objectives
 Practical knowledge of using a X.509 certificate authority and TLS to secure network communication.
 
