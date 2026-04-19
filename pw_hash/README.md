@@ -6,17 +6,6 @@ X-Context: Practical cryptography course - Password hashing lab
 
 # Practical cryptography course - Password hashing lab
 
-## Scenario description
-Birthday presents for minions... ehm... coworkers, I mean, are every managers' worst nightmare.
-Flowers? Chocolate? No no, that could be misinterpreted. A trip to Bali? Finance would go bonkers.  
-  
-In order to save its C-level staff from this recurring trauma, Xample Industries have created a web
-service that provides appropriate gift advice by, allegedly, using "advanced AI machine learning".
-During a last minute code review, security auditors found that the password used to protect this
-highly sensitive information was stored in plain-text on the server's hard drive.  
-  
-Someone needs to fix this issue and that someone seems to be you.
-
 
 ## Learning objectives
 Practical knowledge of cryptographic hash functions for storage/validation of passwords.
